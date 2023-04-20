@@ -4,7 +4,7 @@
 
 ## Dominic Romano DMR139@pitt.edu
 
-## Ibrahim Qutyan
+## Ibrahim Qutyan IMQ2@pitt.edu
 
 ### Ibrahim: Neighborhood Satisfaction dataset: https://data.wprdc.org/dataset/pittsburgh-neighborhood-atlas-1977/resource/88da41a0-9386-438d-8d27-7a8f7cea3069
 
