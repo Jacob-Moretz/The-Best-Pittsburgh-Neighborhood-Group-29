@@ -6,7 +6,7 @@
 
 ## Ibrahim Qutyan
 
-### Ibrahim: Parks Dataset: https://data.wprdc.org/dataset/parks1
+### Ibrahim: Neighborhood Satisfaction dataset: https://data.wprdc.org/dataset/pittsburgh-neighborhood-atlas-1977/resource/88da41a0-9386-438d-8d27-7a8f7cea3069
 
 ### Jake: Schools dataset: https://data.wprdc.org/dataset/pittsburgh-public-school-locations
 
