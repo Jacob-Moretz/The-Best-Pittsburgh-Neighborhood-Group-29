@@ -2,7 +2,7 @@
 
 ## Jake Moretz: JCM210@pitt.edu
 
-## Dominic Romano
+## Dominic Romano DMR139@pitt.edu
 
 ## Ibrahim Qutyan
 
