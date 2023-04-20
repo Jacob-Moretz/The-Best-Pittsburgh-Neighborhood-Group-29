@@ -1,4 +1,4 @@
-# Best Neighborhood for a Family 
+# Best Neighborhood for a Family with Children
 
 ## Jake Moretz: JCM210@pitt.edu
 
